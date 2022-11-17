@@ -14,15 +14,15 @@ Fecha: 31-10-2022
 
 Objetivo general
 
-Comprender la relación existente entre volteje, corriente y resistencia dentro de un circuito eléctricos además de considerar sus derivaciones como los watts mediante el análisis teórico-practico en circuitos eléctricos simples con la finalidad de presenciar el cumplimiento tanto de ley de ohm como de ley de watt
+Comprender la relación existente entre volteje, corriente y resistencia dentro de un circuito eléctricos además de considerar sus derivaciones como los watts mediante el análisis teórico-practico en circuitos eléctricos simples con la finalidad de presenciar el cumplimiento tanto de ley de ohm como de ley de watt.
 
 Objetivos especificos
 
-- Demostrar el tipo de relación entre cada unidad de medida eléctrica
+- Demostrar el tipo de relación entre cada unidad de medida eléctrica.
 
-- Enumerar los pasos para la localización de fallas en un circuito eléctrico simple
+- Enumerar los pasos para la localización de fallas en un circuito eléctrico simple.
 
-- Profundizar concepto de energía de un circuito al considerar la potencia existente en el mismo
+- Profundizar concepto de energía de un circuito al considerar la potencia existente en el mismo.
 
 2.-MARCO TEORICO
 
