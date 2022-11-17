@@ -14,15 +14,15 @@ Fecha: 31-10-2022
 
 Objetivo general
 
-Comprender la relación existente entre volteje, corriente y resistencia dentro de un ciercuito relectricos ademas de considerar sus derivaciones como los watts mediante el analisis teorico-practico en circuitos elctricos simples con la finalidad de presenciar el cumplimeiento tanto de ley de ohm como de ley de watt
+Comprender la relación existente entre volteje, corriente y resistencia dentro de un circuito eléctricos además de considerar sus derivaciones como los watts mediante el análisis teórico-practico en circuitos eléctricos simples con la finalidad de presenciar el cumplimiento tanto de ley de ohm como de ley de watt
 
 Objetivos especificos
 
-- Demostrar el tipo de relación entre cada unidad de medidad electrica
+- Demostrar el tipo de relación entre cada unidad de medida eléctrica
 
-- Enumerar los pasos para la localizacion de fallas en uni circuito electrico simple
+- Enumerar los pasos para la localización de fallas en un circuito eléctrico simple
 
-- Profundizar conecepto de energia de un circuito al considerar la potencia exisitente en el mismo 
+- Profundizar concepto de energía de un circuito al considerar la potencia existente en el mismo
 
 2.-MARCO TEORICO
 
@@ -80,13 +80,14 @@ LINK: https://youtu.be/E9pD9sdjwKo
 
 5.-CONCLUSIONES:
 
--Teniendo en claro que la corriente es directamente proporciona al voltaje pero inversamente proporcional a la resisyencia presente, podemos deducir que al aumrntar o reducir el voltaje la corriente tambien lse comportara de igual forma, mies¿ntras que si aumentamos la resistencia la intensidad reducira y viseversa.
+- Teniendo en claro que la corriente es directamente proporcional al voltaje, pero inversamente proporcional a la resistencia presente, podemos deducir que al aumentar o reducir el voltaje la corriente también se comportara de igual forma, mientras que si aumentamos la resistencia la intensidad reducirá y viceversa.
 
--Conociendo que el movimiento genra energia y como toda energia a su vez es capas de desprender calor debido al movimiento constante de electrones podemos definir la sinergia entre potencia,resistencia y corriente.
+- Conociendo que el movimiento genera energía y como toda energía a su vez es capaz de desprender calor debido al movimiento constante de electrones podemos definir la sinergia entre potencia, resistencia y corriente.
 
-- Energía es la capacidad de realizar trabajo, y potencia es la velocidad a la cual se utiliza la energía.La corriente transporta energía eléctrica a través de un circuito. A medida que los electrones libres pasan po rla resistencia del circuito, ceden su energía cuando chocan con átomos presentes en el material resistivo.
+- Energía es la capacidad de realizar trabajo, y potencia es la velocidad a la cual se utiliza la energía. La corriente transporta energía eléctrica a través de un circuito. A medida que los electrones libres pasan por la resistencia del circuito, ceden su energía cuando chocan con átomos presentes en el material resistivo.
 
-- La potencia nominal de un reisitor esta considerada para soportar la potencia que se aplique al circuito.
+- La potencia nominal de un resistor está considerada para soportar la potencia que se aplique al circuito.
+
  
 6.-BIBLIOGRAFIA
 
