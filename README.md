@@ -14,20 +14,25 @@ Fecha: 31-10-2022
 
 Objetivo general
 
-
+Comprender la relación existente entre volteje, corriente y resistencia dentro de un ciercuito relectricos ademas de considerar sus derivaciones como los watts mediante el analisis teorico-practico en circuitos elctricos simples con la finalidad de presenciar el cumplimeiento tanto de ley de ohm como de ley de watt
 
 Objetivos especificos
 
+- Demostrar el tipo de relación entre cada unidad de medidad electrica
+
+- Enumerar los pasos para la localizacion de fallas en uni circuito electrico simple
+
+- Profundizar conecepto de energia de un circuito al considerar la potencia exisitente en el mismo 
 
 2.-MARCO TEORICO
 
----------------------------------------------CAPITULO 3-------------------------------------------------
+--------------------------------------------------------CAPITULO 3--------------------------------------------------------
 
 ![image](https://user-images.githubusercontent.com/116677544/202339400-e1c3da9c-b72b-4f21-ae48-7269ee90ed60.png)
 
 ![image](https://user-images.githubusercontent.com/116677544/202339529-a61a8bc5-c034-48ea-b373-13fe8072d618.png)
 
----------------------------------------------CAPITULO 4-------------------------------------------------
+--------------------------------------------------------CAPITULO 4---------------------------------------------------------
 
 ![image](https://user-images.githubusercontent.com/116677544/202339617-30674f67-be89-4cd2-a234-df44c6c8adfa.png)
 
@@ -73,10 +78,16 @@ Objetivos especificos
 
 LINK: 
 
-5.-CONCLUSIONES
+5.-CONCLUSIONES:
 
+-Teniendo en claro que la corriente es directamente proporciona al voltaje pero inversamente proporcional a la resisyencia presente, podemos deducir que al aumrntar o reducir el voltaje la corriente tambien lse comportara de igual forma, mies¿ntras que si aumentamos la resistencia la intensidad reducira y viseversa.
 
+-Conociendo que el movimiento genra energia y como toda energia a su vez es capas de desprender calor debido al movimiento constante de electrones podemos definir la sinergia entre potencia,resistencia y corriente.
 
+- Energía es la capacidad de realizar trabajo, y potencia es la velocidad a la cual se utiliza la energía.La corriente transporta energía eléctrica a través de un circuito. A medida que los electrones libres pasan po rla resistencia del circuito, ceden su energía cuando chocan con átomos presentes en el material resistivo.
+
+- La potencia nominal de un reisitor esta considerada para soportar la potencia que se aplique al circuito.
+ 
 6.-BIBLIOGRAFIA
 
 Floyd, T. (2007). Principios de circuito electricos (Vol. Octava edición ). PEARSON EDUCACIÓN.
